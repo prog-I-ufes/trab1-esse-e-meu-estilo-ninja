@@ -6,8 +6,8 @@
 
 /* TRABALHO DE PROGRAMAÇAO 2 
 Problematizaçao: Implementaçao de um algoritmo de classificaçao de dados
-usando a linguagem C. Neste trabalho foi escolhido o algoritmo chamado KNN
-(K-Nearest Neighbors) para ser implementado. Haverá também a avaliaçao do
+usando a linguagem C. Neste trabalho foi escolhido o algoritmo, chamado KNN
+(K-Nearest Neighbors), para ser implementado. Haverá também a avaliaçao do
 desempenho deste classificador através de duas métricas: Acurácia e Matriz
 de Confusao.*/
 
