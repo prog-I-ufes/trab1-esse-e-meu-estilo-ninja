@@ -1,2 +1,2 @@
 all:
-	gcc -o -g exe *.c -lm
+	gcc -g *c -o trab1 -lm
