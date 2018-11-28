@@ -1,0 +1,13 @@
+dataset/vowels_treino.csv
+dataset/vowels_teste.csv
+predicoes/
+11, C
+13, M, 0.5
+13, E
+15, E
+16, C
+17, M, 0.7
+19, M, 0.3
+19, E
+15, M, 1.5
+18, C
